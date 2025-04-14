@@ -1,4 +1,7 @@
 
+from animal import Animal
+
+
 if __name__ == "__main__":
     # TODO: Create an instance of the Animal class
     animalInstanceJonJon = Animal(name='JonJon', species='Black Bear')
